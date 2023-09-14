@@ -17,5 +17,10 @@ phone: "0913 531 3030",
 email: "risus.Quisque@urna.ca"
 }
 contacts.push(new_contact)
+console.log(contacts[0],'\n',contacts[1])
 console.log(contacts[0].name,'/', contacts[0].phone,'/',contacts[0].email)
 console.log(contacts[3].name,'/', contacts[3].phone,'/',contacts[3].email)
+
+let season = 'Summer'
+let msg = `My fav season is ${season}`
+console.log(msg)
