@@ -1,10 +1,7 @@
 let user = prompt('Enter name: ');
 let isFemale = true;
 let state =prompt('Enter state: ');
-let res = (user == 'Adeola' && isFemale == true && state == 'Ogun') ? 'Marry her' : 'Don\'t marry her';
-alert(res)
-
-
+alert= (user == 'Adeola' && isFemale == true && state == 'Ogun') ? 'Marry her' : 'Don\'t marry her';
 
 // let user = prompt('Enter Name: ');
 // let isFemale = true;
