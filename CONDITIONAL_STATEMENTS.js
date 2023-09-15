@@ -4,6 +4,10 @@ let state =prompt('Enter state: ');
 let res = (user == 'Adeola' && isFemale == true && state == 'Ogun') ? 'Marry her' : 'Don\'t marry her';
 console.log(res)
 
+
+
+
+
 // let user = prompt('Enter Name: ');
 // let isFemale = true;
 // let State = prompt('State: ');
